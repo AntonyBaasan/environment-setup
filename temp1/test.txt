@@ -1,1 +1,96 @@
-heloo
+
+Summary: 
+
+Software Engineer with 14+ years of building distributed systems and SaaS platforms. I design scalable architectures, lead cross‑functional teams, and deliver measurable reliability and performance improvements for enterprise customers. 
+
+Core Strengths: 
+
+Architecting scalable systems with low latency, strong fault tolerance, and deep observability 
+
+Driving clarity from ambiguous requirements and aligning teams around actionable roadmaps 
+
+End‑to‑end ownership from design to production, including CI/CD, testing, and operations 
+
+Cross‑team collaboration with product, UX, platform, and security organizations 
+
+Mentoring engineers and elevating team velocity, code quality, and technical decision‑making 
+
+Skills: 
+
+Languages: Java, Python, C#, JavaScript, TypeScript, SQL  
+
+Frameworks: Spring, FastAPI, ASP.NET Core, Angular, React  
+
+Cloud & DevOps: Microsoft Azure, AWS, Kubernetes, Docker, OpenShift, Azure DevOps, Git  
+
+Databases: PostgreSQL, Microsoft SQL Server, MySQL, MongoDB, Oracle, Cosmos DB 
+
+AI Tooling: GitHub Copilot, Devin AI 
+
+Work Experience: 
+
+Senior Software Engineer, CITI Group (Hybrid, Tampa, US)  
+
+Led architecture and delivery of multiple GenAI services from prototype to production, defining backend APIs, scaling patterns, and integration strategy across product, UX, and platform teams. 
+
+Built fault‑tolerant, high‑throughput services with comprehensive observability, improving traceability and reducing operational blind spots across environments. 
+
+Mentored engineers on backend design, testing, and maintainability, accelerating adoption of modern patterns and improving long‑term code health. 
+
+Tech Stack: Java, Python, Spring, FastAPI, PostgreSQL, OpenShift, Kubernetes, ELK 
+
+ 
+
+Software Developer, Microsoft Corp (Remote, Tampa, US) 	Oct 2022 - Feb 2025 
+
+Security Copilot Agility Team - Developed and delivered a scalable 3rd-party plugin system that dramatically accelerated new plugin development velocity, enabling rapid ecosystem expansion. Owned CI/CD tooling and orchestration for Azure Kubernetes deployments across 16 global regions, ensuring consistent, reliable releases at scale. 
+
+Azure Key Vault KMSP Service Team - Maintained and optimized mission-critical Key Vault services and infrastructure, ensuring high availability and security compliance for enterprise customers. Contributed to system reliability improvements and operational excellence initiatives across core cryptographic services. 
+
+Tech Stack: C#, TypeScript, Azure Open AI, ASP.NET, React Next.js, Azure Cosmos DB, Kubernetes, Grafana 
+
+ 
+
+Senior Software Developer, Prophix Inc (Remote, Canada) 	May 2017 - Sep 2022 
+
+Owned the design, development, and maintenance of core SaaS platform features within a Scrum team, delivering full‑stack functionality on ASP.NET Core and Angular for enterprise financial‑reporting workflows. 
+
+Designed and enhanced backend services responsible for generating customer financial reports, improving reliability, throughput, and accuracy across high‑volume reporting pipelines. 
+
+Led a modernization effort migrating the legacy Windows Forms UI to AngularJS and ultimately to modern Angular, significantly improving performance, maintainability, and developer productivity. 
+
+Tech Stack: C#, TypeScript, JavaScript, ASP.NET, Angular, Microsoft SQL Server, AWS 
+
+ 
+
+Full Stack Developer, AppVine Inc. (Toronto, Canada) 	July 2016 - May 2017 
+
+Delivered end‑to‑end features for a financial‑reporting SaaS platform using a Spring framework backend and React frontend, ensuring reliability and scalability for enterprise customers. 
+
+Rebuilt a legacy KnockoutJS frontend into a modern React architecture, improving application performance by 10× and significantly reducing UI complexity and maintenance overhead. 
+
+Tech Stack: Java, Spring, React, jQuery, PostgreSQL, OLAP 
+
+ 
+
+.NET/Game Developer, 3D Internet Solutions (Calgary, Canada) 	July 2012 - Jun 2016 
+
+Architected and delivered 10+ high‑fidelity 3D training simulators across multiple industries by building a reusable simulator engine that standardized simulator creation workflows. 
+
+Led a cross‑functional team of programmers and artists, managing project planning and execution. 
+
+Tech Stack: C#, .NET, Unity, Microsoft SQL Server 
+
+ 
+
+Software Developer, Mobicom (Ulaanbaatar, Mongolia) 	Oct 2009 - Jun 2012 
+
+Designed, built, and maintained high‑traffic, real‑time customer promotion services and internal tools. 
+
+Tech Stack: Java, Python, OpenERP, Oracle, Microsoft SQL Server 
+
+Education: 
+
+Master of Science in Information Technology, MIIT	2009 
+
+Bachelor of Engineering in Software Development, MIIT	  2007 
